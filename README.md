@@ -66,3 +66,5 @@ $$PED = \frac{\% \Delta Q}{\% \Delta P} = \frac{(Q_1 - Q_0) / Q_0}{(P_1 - P_0) /
 │   └── summary_report.pdf          # Final presentation of analytical findings
 ├── README.md                       # Project documentation
 └── requirements.txt                # Python environment dependencies
+
+https://profit-palooza-17.lovable.app
