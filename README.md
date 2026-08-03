@@ -50,6 +50,7 @@ $$PED = \frac{\% \Delta Q}{\% \Delta P} = \frac{(Q_1 - Q_0) / Q_0}{(P_1 - P_0) /
   * $\vert{}PED\vert{} = 1$: Unitary Elasticity.
 
 ---
+[Click to View interactive Sales Performance Dashboard](https://profit-palooza-17.lovable.app)
 
 ## 📁 Repository Structure
 
@@ -66,3 +67,5 @@ $$PED = \frac{\% \Delta Q}{\% \Delta P} = \frac{(Q_1 - Q_0) / Q_0}{(P_1 - P_0) /
 │   └── summary_report.pdf          # Final presentation of analytical findings
 ├── README.md                       # Project documentation
 └── requirements.txt                # Python environment dependencies
+
+
